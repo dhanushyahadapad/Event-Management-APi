@@ -15,3 +15,6 @@ npm start or node index.js
 3. PUT 'api/events/:id : it will update the data by id
 4. DELETE 'api/events/:id : user can delete the data
 
+render :https://event-management-api-3ckm.onrender.com
+
+github:https://github.com/dhanushyahadapad/Event-Management-APi.git
